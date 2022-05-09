@@ -1,7 +1,0 @@
-||ads.youtube.com^
-||ehg-youtube.hitbox.com^
-||s0.2mdn.net^
-||s1.2mdn.net^
-||static.doubleclick.net^
-||video-stats.video.google.com^
-||ypn-js.overture.com^
