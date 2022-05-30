@@ -11,3 +11,14 @@ nerve.eshkol.io
 topgiftssurvey.top
 www.wplay.co
 xml-api.online
+cleardexchange.com
+cpa-optimizer.online
+clk.wbidder.online
+syndication.realsrv.com
+app.appsflyer.com
+outlookabsorb.com
+refpaydc.top
+play.hdvideosnet.com
+toplifestyle-blog.com
+cleardexchange.com
+wildbearads.go2affise.com
