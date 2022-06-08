@@ -1,4 +1,5 @@
 # My Hosts File
+<div align="center">
 <p><i><b>My Hosts File:</b>
 It is a hosts file for Android.
 Various widely respected unified hosts
@@ -21,6 +22,7 @@ began to grow and then DNS resolution servers
 were used.  In many operating systems this method
 is used in preference to others such as DNS.
 It is currently also used to block Internet content
-such as web advertising.</I></p>
-<p><b>Attention: these files are not for commercial
-use.</b></p>
+such as web advertising.</i></p>
+<p><i><b>Attention:</b> these files are
+not for commercial use, these files are for
+personal use only.</i></p></div>
