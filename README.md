@@ -22,3 +22,5 @@ were used.  In many operating systems this method
 is used in preference to others such as DNS.
 It is currently also used to block Internet content
 such as web advertising.</I></p>
+<p><b>Attention: these files are not for commercial
+use.</b></p>
