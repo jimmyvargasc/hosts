@@ -1,6 +1,6 @@
-# My Hosts File
+# Personal Protection
 <div align="justify">
-  <p><i><b>My Hosts File:</b>
+  <p><i><b>Personal Protection:</b>
 It is a hosts file for Android.
 Various widely respected unified hosts
 files are used to block ads, malware,
@@ -23,8 +23,7 @@ were used.  In many operating systems this method
 is used in preference to others such as DNS.
 It is currently also used to block Internet content
 such as web advertising.</i></p>
-  <p><i><b>Attention:</b> these files are
-not for commercial use, these files are for
-personal use only.
+  <p><i><b>Attention:</b> this file are not for commercial
+use, this file are for personal use only.
     </i></p>
 </div>
