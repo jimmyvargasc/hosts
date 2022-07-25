@@ -3,8 +3,6 @@
   <p><i><b>Personal Protection:</b>
 It is a hosts file for Android.
 Several widely respected unified hosts.
-  <a href="https://easylist.to/">
-easylist included</a>.
    The files are used to block ads, malware,
    trackers and other annoying things. Can be used with
     <a href="https://github.com/julian-klode/dns66"> DNS66</a>,
