@@ -99,7 +99,9 @@
 0.0.0.0	cvs.youtube.com
 0.0.0.0	git.youtube.com
 0.0.0.0	mobile.youtube.com
-0.0.0.0	squid.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
 0.0.0.0	database.youtube.com
 0.0.0.0	gw.youtube.com
 0.0.0.0	help.youtube.com
