@@ -5,11 +5,14 @@ It is a hosts file for Android.
 Several widely respected unified hosts.
    The files are used to block ads, malware,
    trackers and other annoying things. Can be used with
-    <a href="https://github.com/julian-klode/dns66"> DNS66</a>,
-    <a href="https://adaway.org/"> AdAway</a> and
-    <a href="https://netguard.me/"> NetGuard</a>.
-The best open source apps.</i></p>
-    <p><i><b>The hosts file:</b>
+   <a href="">AdAway</a>,
+   Blokada,
+   DNS66,
+   Nebulo,
+   NetGuard,
+   RethinkDNS + Firewall,
+   Virtual Hosts.</i></p>
+   <p><i><b>The hosts file:</b>
 A device's hosts file is used by the operating
 system to store the correspondence between Internet
 domains and IP addresses.  This is one of several
