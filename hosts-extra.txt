@@ -75,6 +75,7 @@
 127.0.0.1	data.mistat.india.xiaomi.com
 127.0.0.1	data.mistat.rus.xiaomi.com
 127.0.0.1	data.mistat.xiaomi.com
+127.0.0.1	daughterinlawrib.com
 127.0.0.1	directcpmrev.com
 127.0.0.1	doubleclick.net
 127.0.0.1	dzc-metrics.mzstatic.com
@@ -93,11 +94,13 @@
 127.0.0.1	google-analytics.com
 127.0.0.1	googleadservices.com
 127.0.0.1	grade.market.yandex.ru
+127.0.0.1	granddaughterrepresentationintroduce.com
 127.0.0.1	hotjar-analytics.com
 127.0.0.1	hotjar.com
 127.0.0.1	informer.yandex.ru
 127.0.0.1	kiks.yandex.ru
 127.0.0.1	kxnggkh2nj.com
+127.0.0.1	locomotiveconvenientriddle.com
 127.0.0.1	log.fc.yahoo.com
 127.0.0.1	log.pinterest.com
 127.0.0.1	log.videocampaign.co
@@ -133,6 +136,7 @@
 127.0.0.1	pclick.yahoo.com
 127.0.0.1	pixel.facebook.com
 127.0.0.1	play.nbryb.com
+127.0.0.1	possessionaddictedflight.com
 127.0.0.1	redirect.appmetrica.yandex.ru
 127.0.0.1	report.appmetrica.yandex.net
 127.0.0.1	rereddit.com
@@ -145,12 +149,14 @@
 127.0.0.1	securemetrics.apple.com
 127.0.0.1	sessions.bugsnag.com
 127.0.0.1	share.yandex.ru
+127.0.0.1	sillinessinterfere.com
 127.0.0.1	smetrics.samsung.com
 127.0.0.1	startup.mobile.yandex.net
 127.0.0.1	stats.wp.com
 127.0.0.1	stocks-analytics-events.apple.com
 127.0.0.1	stocks-analytics-events.news.apple-dns.net
 127.0.0.1	supportmetrics.apple.com
+127.0.0.1	tightendescendantcuddle.com
 127.0.0.1	tracking.india.miui.com
 127.0.0.1	tracking.intl.miui.com
 127.0.0.1	tracking.miui.com
