@@ -76,6 +76,7 @@
 127.0.0.1	data.mistat.rus.xiaomi.com
 127.0.0.1	data.mistat.xiaomi.com
 127.0.0.1	daughterinlawrib.com
+127.0.0.1	decencyjessiebloom.com
 127.0.0.1	directcpmrev.com
 127.0.0.1	doubleclick.net
 127.0.0.1	dzc-metrics.mzstatic.com
