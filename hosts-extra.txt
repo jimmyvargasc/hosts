@@ -94,6 +94,7 @@ ganon.yahoo.com
 gemini.yahoo.com
 geo.query.yahoo.com
 geo.yahoo.com
+gettlucksurvey.top
 globalapi.ad.xiaomi.com
 go.xlivrdr.com
 google-analytics.com
@@ -106,6 +107,7 @@ hotjar.com
 informer.yandex.ru
 kiks.yandex.ru
 kxnggkh2nj.com
+limitationvolleyballdejected.com
 locomotiveconvenientriddle.com
 log.fc.yahoo.com
 log.pinterest.com
@@ -131,18 +133,22 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrika.yandex.ru
 mindedcarious.com
+mobilecleaner.club
 mouseflow.com
+nerve.eshkol.io
 nmetrics.samsung.com
 notify.bugsnag.com
 offerwall.yandex.net
 onepush.query.yahoo.com
 open.oneplus.net
 pagead2.googlesyndication.com
+parachuteeffectedotter.com
 partnerads.ysm.yahoo.com
 pclick.yahoo.com
 pixel.facebook.com
 play.nbryb.com
 possessionaddictedflight.com
+reasonablelandmark.com
 redirect.appmetrica.yandex.ru
 report.appmetrica.yandex.net
 rereddit.com
@@ -153,6 +159,7 @@ samsungads.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 securemetrics.apple.com
+serialwarning.com
 sessions.bugsnag.com
 share.yandex.ru
 sillinessinterfere.com
@@ -172,7 +179,9 @@ trk.pinterest.com
 trk2.pinterest.com
 verandahcrease.com
 video.lovelyoy.xyz
+virginyoungestrust.com
 visit.webhosting.yahoo.com
+vpn.3krbsowu4vpg.top
 widgets.pinterest.com
 wii8ny8ok0.youtulbe.biz
 www.cdn.ad.xiaomi.com
