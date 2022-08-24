@@ -89,6 +89,7 @@
 127.0.0.1	globalapi.ad.xiaomi.com
 127.0.0.1	googleadservices.com
 127.0.0.1	google-analytics.com
+127.0.0.1	go.xlivrdr.com
 127.0.0.1	grade.market.yandex.ru
 127.0.0.1	hotjar-analytics.com
 127.0.0.1	hotjar.com
