@@ -1,172 +1,182 @@
-127.0.0.1	adfox.yandex.ru
-127.0.0.1	ads-api.twitter.com
-127.0.0.1	ads-dev.pinterest.com
-127.0.0.1	ads-sg.tiktok.com
-127.0.0.1	ads-twitter.com
-127.0.0.1	ads.facebook.com
-127.0.0.1	ads.google.com
-127.0.0.1	ads.linkedin.com
-127.0.0.1	ads.pinterest.com
-127.0.0.1	ads.reddit.com
-127.0.0.1	ads.tiktok.com
-127.0.0.1	ads.yahoo.com
-127.0.0.1	ads.yap.yahoo.com
-127.0.0.1	ads.youtube.com
-127.0.0.1	adsdk.yandex.ru
-127.0.0.1	adserver.yahoo.com
-127.0.0.1	adservice.google.com
-127.0.0.1	adsfs.oppomobile.com
-127.0.0.1	adspecs.yahoo.com
-127.0.0.1	adtago.s3.amazonaws.com
-127.0.0.1	advertising-api-eu.amazon.com
-127.0.0.1	advertising.twitter.com
-127.0.0.1	advertising.yahoo.com
-127.0.0.1	advice-ads.s3.amazonaws.com
-127.0.0.1	adx.ads.oppomobile.com
-127.0.0.1	affiliationjs.s3.amazonaws.com
-127.0.0.1	agle21xe2anfddirite.com
-127.0.0.1	amazonaax.com
-127.0.0.1	amazonclix.com
-127.0.0.1	an.facebook.com
-127.0.0.1	an.yandex.ru
-127.0.0.1	analytics-api.samsunghealthcn.com
-127.0.0.1	analytics-sg.tiktok.com
-127.0.0.1	analytics.facebook.com
-127.0.0.1	analytics.mobile.yandex.net
-127.0.0.1	analytics.oneplus.cn
-127.0.0.1	analytics.pinterest.com
-127.0.0.1	analytics.pointdrive.linkedin.com
-127.0.0.1	analytics.query.yahoo.com
-127.0.0.1	analytics.samsungknox.com
-127.0.0.1	analytics.tiktok.com
-127.0.0.1	analytics.yahoo.com
-127.0.0.1	analyticsengine.s3.amazonaws.com
-127.0.0.1	api-hotjar.com
-127.0.0.1	api.ad.xiaomi.com
-127.0.0.1	api.bugsnag.com
-127.0.0.1	app.bugsnag.com
-127.0.0.1	app.chat.xiaomi.net
-127.0.0.1	app.getsentry.com
-127.0.0.1	appmetrica.yandex.com
-127.0.0.1	assoc-amazon.com
-127.0.0.1	awaps.yandex.ru
-127.0.0.1	awsync.yandex.ru
-127.0.0.1	banners-slb.mobile.yandex.net
-127.0.0.1	banners.mobile.yandex.net
-127.0.0.1	bats.video.yahoo.com
-127.0.0.1	bdapi-in-ads.realmemobile.com
-127.0.0.1	bdapi.ads.oppomobile.com
-127.0.0.1	bigdata.ssp.samsung.com
-127.0.0.1	books-analytics-events.apple.com
-127.0.0.1	books-analytics-events.news.apple-dns.net
-127.0.0.1	browser.sentry-cdn.com
-127.0.0.1	bs-meta.yandex.ru
-127.0.0.1	bs.yandex.ru
-127.0.0.1	business.samsungusa.com
-127.0.0.1	ca4psell23a4bur.com
-127.0.0.1	ck.ads.oppomobile.com
-127.0.0.1	clck.yandex.ru
-127.0.0.1	click.oneplus.cn
-127.0.0.1	click.oneplus.com
-127.0.0.1	click.sender.yandex.ru
-127.0.0.1	comet.yahoo.com
-127.0.0.1	d.reddit.com
-127.0.0.1	data.ads.oppomobile.com
-127.0.0.1	data.mistat.india.xiaomi.com
-127.0.0.1	data.mistat.rus.xiaomi.com
-127.0.0.1	data.mistat.xiaomi.com
-127.0.0.1	daughterinlawrib.com
-127.0.0.1	decencyjessiebloom.com
-127.0.0.1	directcpmrev.com
-127.0.0.1	doubleclick.net
-127.0.0.1	dzc-metrics.mzstatic.com
-127.0.0.1	events.redditmedia.com
-127.0.0.1	extmaps-api.yandex.net
-127.0.0.1	fastclick.com
-127.0.0.1	fastclick.net
-127.0.0.1	freshmarketer.com
-127.0.0.1	g1.ads.oppomobile.com
-127.0.0.1	ganon.yahoo.com
-127.0.0.1	gemini.yahoo.com
-127.0.0.1	geo.query.yahoo.com
-127.0.0.1	geo.yahoo.com
-127.0.0.1	globalapi.ad.xiaomi.com
-127.0.0.1	go.xlivrdr.com
-127.0.0.1	google-analytics.com
-127.0.0.1	googleadservices.com
-127.0.0.1	grade.market.yandex.ru
-127.0.0.1	granddaughterrepresentationintroduce.com
-127.0.0.1	hotjar-analytics.com
-127.0.0.1	hotjar.com
-127.0.0.1	informer.yandex.ru
-127.0.0.1	kiks.yandex.ru
-127.0.0.1	kxnggkh2nj.com
-127.0.0.1	locomotiveconvenientriddle.com
-127.0.0.1	log.fc.yahoo.com
-127.0.0.1	log.pinterest.com
-127.0.0.1	log.videocampaign.co
-127.0.0.1	logbak.hicloud.com
-127.0.0.1	logservice.hicloud.com
-127.0.0.1	logservice1.hicloud.com
-127.0.0.1	luckyorange.com
-127.0.0.1	luckyorange.net
-127.0.0.1	m.yap.yahoo.com
-127.0.0.1	marketingsolutions.yahoo.com
-127.0.0.1	mc.yandex.ru
-127.0.0.1	media.net
-127.0.0.1	metrics-dra.dt.hicloud.com
-127.0.0.1	metrics.apple.com
-127.0.0.1	metrics.data.hicloud.com
-127.0.0.1	metrics.icloud.com
-127.0.0.1	metrics.mzstatic.com
-127.0.0.1	metrics1.data.hicloud.com
-127.0.0.1	metrics2.data.hicloud.com
-127.0.0.1	metrics3.data.hicloud.com
-127.0.0.1	metrics4.data.hicloud.com
-127.0.0.1	metrics5.data.hicloud.com
-127.0.0.1	metrika.yandex.ru
-127.0.0.1	mindedcarious.com
-127.0.0.1	mouseflow.com
-127.0.0.1	nmetrics.samsung.com
-127.0.0.1	notify.bugsnag.com
-127.0.0.1	offerwall.yandex.net
-127.0.0.1	onepush.query.yahoo.com
-127.0.0.1	open.oneplus.net
-127.0.0.1	pagead2.googlesyndication.com
-127.0.0.1	partnerads.ysm.yahoo.com
-127.0.0.1	pclick.yahoo.com
-127.0.0.1	pixel.facebook.com
-127.0.0.1	play.nbryb.com
-127.0.0.1	possessionaddictedflight.com
-127.0.0.1	redirect.appmetrica.yandex.ru
-127.0.0.1	report.appmetrica.yandex.net
-127.0.0.1	rereddit.com
-127.0.0.1	sa.api.intl.miui.com
-127.0.0.1	samsung-com.112.2o7.net
-127.0.0.1	samsungadhub.com
-127.0.0.1	samsungads.com
-127.0.0.1	sdkconfig.ad.intl.xiaomi.com
-127.0.0.1	sdkconfig.ad.xiaomi.com
-127.0.0.1	securemetrics.apple.com
-127.0.0.1	sessions.bugsnag.com
-127.0.0.1	share.yandex.ru
-127.0.0.1	sillinessinterfere.com
-127.0.0.1	smetrics.samsung.com
-127.0.0.1	startup.mobile.yandex.net
-127.0.0.1	stats.wp.com
-127.0.0.1	stocks-analytics-events.apple.com
-127.0.0.1	stocks-analytics-events.news.apple-dns.net
-127.0.0.1	supportmetrics.apple.com
-127.0.0.1	tightendescendantcuddle.com
-127.0.0.1	tracking.india.miui.com
-127.0.0.1	tracking.intl.miui.com
-127.0.0.1	tracking.miui.com
-127.0.0.1	tracking.rus.miui.com
-127.0.0.1	trk.pinterest.com
-127.0.0.1	trk2.pinterest.com
-127.0.0.1	visit.webhosting.yahoo.com
-127.0.0.1	widgets.pinterest.com
-127.0.0.1	www.cdn.ad.xiaomi.com
-127.0.0.1	xhqxmovies.com
-127.0.0.1	yandexadexchange.net
-127.0.0.1	youtube.cleverads.vn
+064pka7e3k.youtulbe.biz
+a07d8usa3fyntvrad8.youtulbe.biz
+adfox.yandex.ru
+ads-api.twitter.com
+ads-dev.pinterest.com
+ads-sg.tiktok.com
+ads-twitter.com
+ads.facebook.com
+ads.google.com
+ads.linkedin.com
+ads.pinterest.com
+ads.reddit.com
+ads.tiktok.com
+ads.yahoo.com
+ads.yap.yahoo.com
+ads.youtube.com
+adsdk.yandex.ru
+adserver.yahoo.com
+adservice.google.com
+adsfs.oppomobile.com
+adspecs.yahoo.com
+adtago.s3.amazonaws.com
+advertising-api-eu.amazon.com
+advertising.twitter.com
+advertising.yahoo.com
+advice-ads.s3.amazonaws.com
+adx.ads.oppomobile.com
+affiliationjs.s3.amazonaws.com
+agle21xe2anfddirite.com
+amazonaax.com
+amazonclix.com
+an.facebook.com
+an.yandex.ru
+analytics-api.samsunghealthcn.com
+analytics-sg.tiktok.com
+analytics.facebook.com
+analytics.mobile.yandex.net
+analytics.oneplus.cn
+analytics.pinterest.com
+analytics.pointdrive.linkedin.com
+analytics.query.yahoo.com
+analytics.samsungknox.com
+analytics.tiktok.com
+analytics.yahoo.com
+analyticsengine.s3.amazonaws.com
+api-hotjar.com
+api.ad.xiaomi.com
+api.bugsnag.com
+app.bugsnag.com
+app.chat.xiaomi.net
+app.getsentry.com
+appmetrica.yandex.com
+articlepawn.com
+assoc-amazon.com
+awaps.yandex.ru
+awsync.yandex.ru
+banners-slb.mobile.yandex.net
+banners.mobile.yandex.net
+bats.video.yahoo.com
+bdapi-in-ads.realmemobile.com
+bdapi.ads.oppomobile.com
+bigdata.ssp.samsung.com
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+browser.sentry-cdn.com
+bs-meta.yandex.ru
+bs.yandex.ru
+business.samsungusa.com
+ca4psell23a4bur.com
+ck.ads.oppomobile.com
+clck.yandex.ru
+click.oneplus.cn
+click.oneplus.com
+click.sender.yandex.ru
+comet.yahoo.com
+d.reddit.com
+data.ads.oppomobile.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
+daughterinlawrib.com
+decencyjessiebloom.com
+directcpmrev.com
+doubleclick.net
+ds11hz1jxc.youtulbe.biz
+dzc-metrics.mzstatic.com
+events.redditmedia.com
+extmaps-api.yandex.net
+fastclick.com
+fastclick.net
+freshmarketer.com
+g1.ads.oppomobile.com
+ganon.yahoo.com
+gemini.yahoo.com
+geo.query.yahoo.com
+geo.yahoo.com
+globalapi.ad.xiaomi.com
+go.xlivrdr.com
+google-analytics.com
+googleadservices.com
+grade.market.yandex.ru
+granddaughterrepresentationintroduce.com
+hallucinatepromise.com
+hotjar-analytics.com
+hotjar.com
+informer.yandex.ru
+kiks.yandex.ru
+kxnggkh2nj.com
+locomotiveconvenientriddle.com
+log.fc.yahoo.com
+log.pinterest.com
+log.videocampaign.co
+logbak.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+luckyorange.com
+luckyorange.net
+m.yap.yahoo.com
+marketingsolutions.yahoo.com
+mc.yandex.ru
+media.net
+metrics-dra.dt.hicloud.com
+metrics.apple.com
+metrics.data.hicloud.com
+metrics.icloud.com
+metrics.mzstatic.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com
+metrika.yandex.ru
+mindedcarious.com
+mouseflow.com
+nmetrics.samsung.com
+notify.bugsnag.com
+offerwall.yandex.net
+onepush.query.yahoo.com
+open.oneplus.net
+pagead2.googlesyndication.com
+partnerads.ysm.yahoo.com
+pclick.yahoo.com
+pixel.facebook.com
+play.nbryb.com
+possessionaddictedflight.com
+redirect.appmetrica.yandex.ru
+report.appmetrica.yandex.net
+rereddit.com
+sa.api.intl.miui.com
+samsung-com.112.2o7.net
+samsungadhub.com
+samsungads.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+securemetrics.apple.com
+sessions.bugsnag.com
+share.yandex.ru
+sillinessinterfere.com
+smetrics.samsung.com
+startup.mobile.yandex.net
+stats.wp.com
+stickervillain.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
+supportmetrics.apple.com
+tightendescendantcuddle.com
+tracking.india.miui.com
+tracking.intl.miui.com
+tracking.miui.com
+tracking.rus.miui.com
+trk.pinterest.com
+trk2.pinterest.com
+verandahcrease.com
+video.lovelyoy.xyz
+visit.webhosting.yahoo.com
+widgets.pinterest.com
+wii8ny8ok0.youtulbe.biz
+www.cdn.ad.xiaomi.com
+xhqxmovies.com
+yandexadexchange.net
+youtube.cleverads.vn
+zauthuvy.com
