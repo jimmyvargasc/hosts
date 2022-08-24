@@ -121,6 +121,7 @@
 127.0.0.1	metrics4.data.hicloud.com
 127.0.0.1	metrics5.data.hicloud.com
 127.0.0.1	metrika.yandex.ru
+127.0.0.1	mindedcarious.com
 127.0.0.1	mouseflow.com
 127.0.0.1	nmetrics.samsung.com
 127.0.0.1	notify.bugsnag.com
