@@ -1,9 +1,9 @@
 # Title: Ads and privacy hosts
 # =========================================================
 # Size: 1.67 MiB
-# Count: 60,764 Rules
+# Count: 60,798 Rules
 # Expires: 2 days (update frequency)
-# Updated: Mon, 12 Dec 2022 13:42:38 -05:00:00
+# Updated: Mon, 12 Dec 2022 15:10:54 -05:00:00
 # URL: https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts
 # =========================================================
 127.0.0.1	localhost
@@ -8360,6 +8360,7 @@
 127.0.0.1	api16-log-gcp.pangle.io
 127.0.0.1	api16-log-sg.pangle.io
 127.0.0.1	api2.amplitude.com
+127.0.0.1	api2.appsflyer.com
 127.0.0.1	api2.batmobi.net
 127.0.0.1	api2.branch.io
 127.0.0.1	api2.chartbeat.com
@@ -8847,6 +8848,7 @@
 127.0.0.1	arpxs.com
 127.0.0.1	arquilavaan.com
 127.0.0.1	arraignmentinclose.com
+127.0.0.1	arrenothanca.xyz
 127.0.0.1	arridedoregano.tech
 127.0.0.1	arrietty.nrj.fr
 127.0.0.1	arrivalist.com
@@ -9346,6 +9348,7 @@
 127.0.0.1	attn.tv
 127.0.0.1	attorney.findlaw.com
 127.0.0.1	attr-2p.com
+127.0.0.1	attr.appsflyer.com
 127.0.0.1	attr.union.ucweb.com
 127.0.0.1	attracta.com
 127.0.0.1	attractionbanana.com
@@ -13082,6 +13085,7 @@
 127.0.0.1	cdn.anymad.com
 127.0.0.1	cdn.applixir.com
 127.0.0.1	cdn.appnext.com
+127.0.0.1	cdn.appsflyer.com
 127.0.0.1	cdn.aralego.net
 127.0.0.1	cdn.arcstudiopro.com
 127.0.0.1	cdn.as.amanad.adtdp.com
@@ -13447,6 +13451,7 @@
 127.0.0.1	cdnanalytics.xyz
 127.0.0.1	cdnap.airpush.com
 127.0.0.1	cdnapi.net
+127.0.0.1	cdnappicons.appsflyer.com
 127.0.0.1	cdnativ.com
 127.0.0.1	cdnativepush.com
 127.0.0.1	cdnaz.win
@@ -16653,6 +16658,7 @@
 127.0.0.1	d.uni-medias.com
 127.0.0.1	d.us.criteo.com
 127.0.0.1	d.wi-fi.ru
+127.0.0.1	d08q4os3homh.de
 127.0.0.1	d0efb7d9aeb478d.com
 127.0.0.1	d0f.le-dauphin.com
 127.0.0.1	d0f7c10e2e.com
@@ -22946,6 +22952,7 @@
 127.0.0.1	fuzzybasketball.com
 127.0.0.1	fuzzyflavor.com
 127.0.0.1	fuzzyweather.com
+127.0.0.1	fvalid.appsflyer.com
 127.0.0.1	fvcwqkkqmuv.com
 127.0.0.1	fvf3adsna5qc.www.earthclassmail.com
 127.0.0.1	fw-ad.jp
@@ -23771,6 +23778,7 @@
 127.0.0.1	glancecdn.net
 127.0.0.1	glanceguide.com
 127.0.0.1	glandtest.com
+127.0.0.1	glangs.com
 127.0.0.1	glareart.com
 127.0.0.1	glargoun.uk
 127.0.0.1	glassboxcdn.com
@@ -24278,6 +24286,7 @@
 127.0.0.1	gpr.hu
 127.0.0.1	gpsecureads.com
 127.0.0.1	gpxion.weidezaun.info
+127.0.0.1	gpybqmhplmiv.com
 127.0.0.1	gpylmwtjiy.com
 127.0.0.1	gpzhcc.lapeyre.fr
 127.0.0.1	gqbnybhhjwe.com
@@ -25626,6 +25635,8 @@
 127.0.0.1	hpxsci.miista.com
 127.0.0.1	hpyjmp.com
 127.0.0.1	hpyrdr.com
+127.0.0.1	hq.appsflyer.com
+127.0.0.1	hq1.appsflyer.com
 127.0.0.1	hq3x.com
 127.0.0.1	hqawqssuvqyl.xyz
 127.0.0.1	hqbypgemclykwc.xyz
@@ -28045,6 +28056,9 @@
 127.0.0.1	js.users.51.la
 127.0.0.1	js.vlitag.com
 127.0.0.1	js.w.inmobi.com
+127.0.0.1	js.wpncdn.com
+127.0.0.1	js.wpnjs.com
+127.0.0.1	js.wpnsrv.com
 127.0.0.1	js.wpshsdk.com
 127.0.0.1	js1.nend.net
 127.0.0.1	js2.ad-score.com
@@ -28934,6 +28948,7 @@
 127.0.0.1	labfrsmdxqj.xyz
 127.0.0.1	laborates.com
 127.0.0.1	labortiontrifee.com
+127.0.0.1	labourerindicator.com
 127.0.0.1	labourmuttering.com
 127.0.0.1	labporno.com
 127.0.0.1	labs-cdn.revcontent.com
@@ -29090,6 +29105,7 @@
 127.0.0.1	launch.adserver.yahoo.com
 127.0.0.1	launchbit.com
 127.0.0.1	launcher.us.yeshen.com
+127.0.0.1	launches.appsflyer.com
 127.0.0.1	launchpoint.marketo.com
 127.0.0.1	launchreliantcleaver.com
 127.0.0.1	launct.com
@@ -30651,6 +30667,7 @@
 127.0.0.1	luomjtajrhaqan.xyz
 127.0.0.1	luptbq.lampsplus.com
 127.0.0.1	luracancamus.com
+127.0.0.1	luralgaqp.com
 127.0.0.1	luravius.com
 127.0.0.1	lurefuleuryon.com
 127.0.0.1	lurgaimt.net
@@ -33292,6 +33309,7 @@
 127.0.0.1	monitoring.proper.io
 127.0.0.1	monitoring.vungle.com
 127.0.0.1	monitoring.youronlinechoices.com
+127.0.0.1	monitorsdk.appsflyer.com
 127.0.0.1	monitus.net
 127.0.0.1	monkeybroker.net
 127.0.0.1	monkeysloveyou.com
@@ -33464,6 +33482,7 @@
 127.0.0.1	mp3pro.xyz
 127.0.0.1	mp3vizor.com
 127.0.0.1	mp3zik.net
+127.0.0.1	mpa4xbbs6m73.de
 127.0.0.1	mpanyinady.com
 127.0.0.1	mpaphqjb.com
 127.0.0.1	mparticle.com
@@ -35846,6 +35865,7 @@
 127.0.0.1	onegalact.com
 127.0.0.1	oneid.mmstat.com
 127.0.0.1	oneimpress.io
+127.0.0.1	onelink.appsflyer.com
 127.0.0.1	onelink.me
 127.0.0.1	onelivetra.com
 127.0.0.1	onemacusa.net
@@ -37385,6 +37405,7 @@
 127.0.0.1	peirs5tbakchios.com
 127.0.0.1	peitet.com
 127.0.0.1	pejqoq4cafo3bg9yqqqtk5e6s6.com
+127.0.0.1	pekskcknwxoyoxb.com
 127.0.0.1	pelagicmismate.com
 127.0.0.1	pelcro.com
 127.0.0.1	pelicula20.com
@@ -38809,6 +38830,7 @@
 127.0.0.1	ppcwebspy.com
 127.0.0.1	ppdb.pl
 127.0.0.1	ppf.rakuten.co.jp
+127.0.0.1	ppfcgfdcmoq.com
 127.0.0.1	ppfrlfe.com
 127.0.0.1	pphwrevr.com
 127.0.0.1	ppikhedas.com
@@ -39521,6 +39543,7 @@
 127.0.0.1	ptarepjx.com
 127.0.0.1	ptaughar.com
 127.0.0.1	ptaulratch.com
+127.0.0.1	ptaungoo.xyz
 127.0.0.1	ptauphiw.net
 127.0.0.1	ptauxofi.net
 127.0.0.1	ptawe.com
@@ -39787,6 +39810,7 @@
 127.0.0.1	puresinew.com
 127.0.0.1	purevideo.com
 127.0.0.1	purgma.com
+127.0.0.1	purpes.com
 127.0.0.1	purpleads.io
 127.0.0.1	purplecode.pro
 127.0.0.1	purpleflag.net
@@ -42834,6 +42858,7 @@
 127.0.0.1	s2s.adjust.com
 127.0.0.1	s2s.adpushup.com
 127.0.0.1	s2s.aniview.com
+127.0.0.1	s2s.appsflyer.com
 127.0.0.1	s2s.proper.io
 127.0.0.1	s2s.rafotech.com
 127.0.0.1	s2s.singular.net
@@ -42876,6 +42901,7 @@
 127.0.0.1	s5.addthis.com
 127.0.0.1	s5.charliehebdo.fr
 127.0.0.1	s5.cnnx.io
+127.0.0.1	s5qj82thv3dw.de
 127.0.0.1	s6.yovoads.com
 127.0.0.1	s6w.de
 127.0.0.1	s7.addthis.com
@@ -43777,6 +43803,7 @@
 127.0.0.1	sdk-log-inter.youdao.com
 127.0.0.1	sdk-monitoring.ogury.co
 127.0.0.1	sdk-orion.appboy.com
+127.0.0.1	sdk-services.appsflyer.com
 127.0.0.1	sdk.51.la
 127.0.0.1	sdk.a-mo.net
 127.0.0.1	sdk.a4.tl
@@ -43786,6 +43813,7 @@
 127.0.0.1	sdk.airbridge.io
 127.0.0.1	sdk.appadhoc.com
 127.0.0.1	sdk.appnext.com
+127.0.0.1	sdk.appsflyer.com
 127.0.0.1	sdk.apptentive.com
 127.0.0.1	sdk.e.qq.com
 127.0.0.1	sdk.fra-01.braze.eu
@@ -45448,6 +45476,7 @@
 127.0.0.1	slipperyheight.pro
 127.0.0.1	slipperysack.com
 127.0.0.1	slipstream.skyscanner.net
+127.0.0.1	slobcarpstun.com
 127.0.0.1	sloeri.com
 127.0.0.1	slogantrend.de
 127.0.0.1	sloi1.com
@@ -55112,6 +55141,7 @@
 127.0.0.1	uqimgeulpygyo.com
 127.0.0.1	uqsgsfhd.com
 127.0.0.1	uralweb.ru
+127.0.0.1	urambled.com
 127.0.0.1	urbanairship.com
 127.0.0.1	urc.taboolasyndication.com
 127.0.0.1	urdmorgytjnbn.xyz
@@ -55413,6 +55443,7 @@
 127.0.0.1	uuknlfqi.com
 127.0.0.1	uulvtpbx.com
 127.0.0.1	uuocyltqnjgj.com
+127.0.0.1	uusiccyeuyrc.com
 127.0.0.1	uusimaa.viessmann.fi
 127.0.0.1	uuydabxaindfsb.xyz
 127.0.0.1	uvbyty.com
@@ -55550,6 +55581,7 @@
 127.0.0.1	valetisolate.com
 127.0.0.1	valgoidaguglia.guru
 127.0.0.1	valid-dad.com
+127.0.0.1	validate.appsflyer.com
 127.0.0.1	validclick.com
 127.0.0.1	validsquatcyber.com
 127.0.0.1	valleyhealth.hrm.healthgrades.com
@@ -56733,6 +56765,7 @@
 127.0.0.1	w982.middletownpress.com
 127.0.0.1	w99megeneral.com
 127.0.0.1	wa.and.co.uk
+127.0.0.1	wa.appsflyer.com
 127.0.0.1	wa.bol.com
 127.0.0.1	wa.devolksbank.nl
 127.0.0.1	wa.gmx.ch
@@ -58068,6 +58101,7 @@
 127.0.0.1	wrotos.com
 127.0.0.1	wrotr.com
 127.0.0.1	wrxqupnusmdewe.com
+127.0.0.1	wryaihxiwjkvu.com
 127.0.0.1	wryfinger.com
 127.0.0.1	wrygraphicstheme.com
 127.0.0.1	wryweirdy.com
