@@ -1,9 +1,9 @@
 # Title: Ads and privacy hosts
 # =========================================================
 # Size: 1.67 MiB
-# Count: 60,622 Rules
+# Count: 60,762 Rules
 # Expires: 2 days (update frequency)
-# Updated: Mon, 12 Dec 2022 07:21:49 -05:00:00
+# Updated: Mon, 12 Dec 2022 11:38:28 -05:00:00
 # URL: https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts
 # =========================================================
 127.0.0.1	localhost
@@ -390,6 +390,7 @@
 127.0.0.1	24log.it
 127.0.0.1	24log.ru
 127.0.0.1	24newstech.com
+127.0.0.1	24plexus.com
 127.0.0.1	24s1b0et1.de
 127.0.0.1	24smi.info
 127.0.0.1	24smi.net
@@ -850,6 +851,7 @@
 127.0.0.1	66lotte.com
 127.0.0.1	6740e9369b.com
 127.0.0.1	6745jj.com
+127.0.0.1	6788vn.com
 127.0.0.1	68-131.net.zooplus.de
 127.0.0.1	680566accf.com
 127.0.0.1	68456d1a69.com
@@ -1113,6 +1115,7 @@
 127.0.0.1	9nl.eu
 127.0.0.1	9purdfe9xg.com
 127.0.0.1	9rendezvous-l.com
+127.0.0.1	9s4l9nik.de
 127.0.0.1	9t5.me
 127.0.0.1	9tp9jd4p.de
 127.0.0.1	9tumza4dp4o9.com
@@ -2443,6 +2446,7 @@
 127.0.0.1	abateall.com
 127.0.0.1	abattoirpleatsprinkle.com
 127.0.0.1	abazelfan.com
+127.0.0.1	abbabbbank.com
 127.0.0.1	abbeau.com
 127.0.0.1	abbeyblog.me
 127.0.0.1	abbeyintervalfetched.com
@@ -2753,6 +2757,8 @@
 127.0.0.1	acaupail.net
 127.0.0.1	acb.vn-banks.xyz
 127.0.0.1	acb.vn-c.xyz
+127.0.0.1	acb.vn-cl.xyz
+127.0.0.1	acb.vn-jss.vip
 127.0.0.1	acb.vn-ol.top
 127.0.0.1	acb.vn-vp.xyz
 127.0.0.1	acbbank.xyz
@@ -6632,6 +6638,7 @@
 127.0.0.1	aliascagesboxer.com
 127.0.0.1	alibifolksinspired.com
 127.0.0.1	alibistated.com
+127.0.0.1	aliexshop.vip
 127.0.0.1	alifafdlnjeruif.com
 127.0.0.1	alightbornbell.com
 127.0.0.1	alignclamstram.com
@@ -6863,6 +6870,7 @@
 127.0.0.1	amazon-adsystems.com
 127.0.0.1	amazon-cornerstone.com
 127.0.0.1	amazon-tam-match.dotomi.com
+127.0.0.1	amazon.amazonptj.com
 127.0.0.1	amazon.com
 127.0.0.1	amazonaax.com
 127.0.0.1	amazonaws.com
@@ -7545,6 +7553,8 @@
 127.0.0.1	analytics.servogram.io
 127.0.0.1	analytics.sgnapps.com
 127.0.0.1	analytics.shareaholic.com
+127.0.0.1	analytics.shein.co.uk
+127.0.0.1	analytics.shein.com
 127.0.0.1	analytics.shift.agency
 127.0.0.1	analytics.shop.hisense.com
 127.0.0.1	analytics.shorte.st
@@ -8976,6 +8986,7 @@
 127.0.0.1	asgorebysschan.com
 127.0.0.1	asgust.com
 127.0.0.1	ash.creativecdn.com
+127.0.0.1	ashadofe.com
 127.0.0.1	ashamedbirchpoorly.com
 127.0.0.1	ashamemafia.com
 127.0.0.1	ashcdn.com
@@ -9608,6 +9619,7 @@
 127.0.0.1	avulsedcherty.com
 127.0.0.1	avuthoumse.com
 127.0.0.1	avwincall.info
+127.0.0.1	avymtcvmescu.com
 127.0.0.1	aw.advertica-cdn.com
 127.0.0.1	awafthealer.com
 127.0.0.1	awaitbackseatprod.com
@@ -10721,6 +10733,7 @@
 127.0.0.1	belyyeusy.com
 127.0.0.1	bemachopor.com
 127.0.0.1	bembexpps.life
+127.0.0.1	bemcll.me
 127.0.0.1	bemobpath.com
 127.0.0.1	bemobtracks.com
 127.0.0.1	bemobtrcks.com
@@ -13422,7 +13435,6 @@
 127.0.0.1	cdn7.baunetz.de
 127.0.0.1	cdn7.network
 127.0.0.1	cdn7.rocks
-127.0.0.1	cdn70555962.ahacdn.me
 127.0.0.1	cdn72891311.ahacdn.me
 127.0.0.1	cdn78085165.ahacdn.me
 127.0.0.1	cdn81910013.ahacdn.me
@@ -13676,6 +13688,7 @@
 127.0.0.1	changelog.freshmarketer.com
 127.0.0.1	changetip.com
 127.0.0.1	chango.com
+127.0.0.1	chanle79.me
 127.0.0.1	channel-analysis-js.gmw.cn
 127.0.0.1	channel.arubanetworks.com
 127.0.0.1	channel.informaengage.com
@@ -14019,6 +14032,7 @@
 127.0.0.1	cl.canva.com
 127.0.0.1	cl.promo.skf.com
 127.0.0.1	cl.qualaroo.com
+127.0.0.1	cl247.me
 127.0.0.1	clackavarian.com
 127.0.0.1	cladp.com
 127.0.0.1	cladupius.com
@@ -14484,12 +14498,16 @@
 127.0.0.1	clkv6.rtpdn14.com
 127.0.0.1	clmbtech.com
 127.0.0.1	clmcom.com
+127.0.0.1	clmm.me
 127.0.0.1	clmm.nl
+127.0.0.1	clmm.pro
 127.0.0.1	clmm.team
 127.0.0.1	clmm.tv
 127.0.0.1	clmm.win
 127.0.0.1	clmm113.me
 127.0.0.1	clmm29.fun
+127.0.0.1	clmm34.me
+127.0.0.1	clmm88.co
 127.0.0.1	clnbze.dziennikbaltycki.pl
 127.0.0.1	clnbze.dzienniklodzki.pl
 127.0.0.1	clnbze.expressbydgoski.pl
@@ -14567,6 +14585,8 @@
 127.0.0.1	cls7.theushuaiaexperience.com
 127.0.0.1	clt.banggood.com
 127.0.0.1	cltgtstor001.blob.core.windows.net
+127.0.0.1	cltx.in
+127.0.0.1	cltx19.me
 127.0.0.1	cltx888.me
 127.0.0.1	cltxxq.cruises.united.com
 127.0.0.1	clubcollector.com
@@ -15046,8 +15066,14 @@
 127.0.0.1	com-wkejf32ljd23409system.net
 127.0.0.1	com.econa.com
 127.0.0.1	com.vn-hc.info
+127.0.0.1	com.vn-iy.info
+127.0.0.1	com.vn-iz.info
+127.0.0.1	com.vn-rb.icu
+127.0.0.1	com.vn-rn.biz
 127.0.0.1	com.vn-sp.top
+127.0.0.1	com.vn-sp.xyz
 127.0.0.1	com.vn-ub.info
+127.0.0.1	com.vn-uz.info
 127.0.0.1	comacantha.com
 127.0.0.1	comadscity.com
 127.0.0.1	comagic.ru
@@ -15260,6 +15286,7 @@
 127.0.0.1	congressaffrayghosts.com
 127.0.0.1	congtacvienonline.vn
 127.0.0.1	congthongtinvidientu.com
+127.0.0.1	congtytaichinhlotte.com
 127.0.0.1	conimicutlighthouse.viessmann-us.com
 127.0.0.1	conjectwatson.com
 127.0.0.1	conjeller-chikemon.com
@@ -16046,6 +16073,7 @@
 127.0.0.1	creamssicsite.com
 127.0.0.1	create2fear.com
 127.0.0.1	creationaleprose.com
+127.0.0.1	creative-cdn.oddsserve.com
 127.0.0.1	creative-gallery.gumgum.com
 127.0.0.1	creative-serving.com
 127.0.0.1	creative-templates-api.gumgum.com
@@ -16246,6 +16274,7 @@
 127.0.0.1	cskh-dienmayxanhvn.com
 127.0.0.1	cskhdienmayxanh.com
 127.0.0.1	cskhdienmayxanhvn.com
+127.0.0.1	cskhmayxanh.com
 127.0.0.1	cslogger.aaxads.com
 127.0.0.1	csm.cxpublic.com
 127.0.0.1	csm.magnetintell.com
@@ -17375,6 +17404,7 @@
 127.0.0.1	dandyblondewinding.com
 127.0.0.1	dangerinsignificantinvent.com
 127.0.0.1	dangkysendo.vn
+127.0.0.1	dangkytanggiai2022.com
 127.0.0.1	danorenius.com
 127.0.0.1	dantbritingd.club
 127.0.0.1	dante2007.com
@@ -17962,6 +17992,7 @@
 127.0.0.1	deferencedilutemurmur.com
 127.0.0.1	deferred.app-adforce.jp
 127.0.0.1	defetohi.com
+127.0.0.1	defi.hsfdefi.com
 127.0.0.1	defiantinfluencedtrustworthy.com
 127.0.0.1	defiantrice.com
 127.0.0.1	defilt.com
@@ -18382,6 +18413,7 @@
 127.0.0.1	diboji.class101.net
 127.0.0.1	dibsemey.com
 127.0.0.1	dichvu-chuyentien24h.000webhostapp.com
+127.0.0.1	dichvuchuyentien-ind.weebly.com
 127.0.0.1	dichvunhantienquocte2-4-7.weebly.com
 127.0.0.1	diclotrans.com
 127.0.0.1	dicrol.com
@@ -18391,6 +18423,7 @@
 127.0.0.1	didchinosdub.cam
 127.0.0.1	didit.com
 127.0.0.1	didna.io
+127.0.0.1	didongviet.store
 127.0.0.1	didpuprat.com
 127.0.0.1	didtheyreadit.com
 127.0.0.1	die-rankliste.com
@@ -18399,8 +18432,11 @@
 127.0.0.1	dienesasides.com
 127.0.0.1	dienlanhnguyenkim.ctyvn.net
 127.0.0.1	dienmayxanh-vn.top
+127.0.0.1	dienmayxanh247.com
+127.0.0.1	dienmayxanh24h.com
 127.0.0.1	dienmayxanhbeauty.com
 127.0.0.1	dienmayxanhbeautyplus.com
+127.0.0.1	dienmayxanhh.com
 127.0.0.1	dienmayxanhhcm.com
 127.0.0.1	dienmayxanhhcm24h.com
 127.0.0.1	dienmayxanhtantam.com
@@ -18977,6 +19013,7 @@
 127.0.0.1	dogsshoes.com
 127.0.0.1	dogwrite.com
 127.0.0.1	doigtepyramid.com
+127.0.0.1	doithecao.com.vn
 127.0.0.1	doja.worten.es
 127.0.0.1	dojomojo.com
 127.0.0.1	dojomojo.ninja
@@ -23627,6 +23664,7 @@
 127.0.0.1	gia.jd.com
 127.0.0.1	giantaffiliates.com
 127.0.0.1	gianwho.com
+127.0.0.1	giaodichpostructuyenvn.com
 127.0.0.1	giaodichtiente247ipay.weebly.com
 127.0.0.1	giaodichvidientu.com.vn
 127.0.0.1	gibbousbalaic.com
@@ -24160,6 +24198,7 @@
 127.0.0.1	gopejk.com
 127.0.0.1	gophykopta.com
 127.0.0.1	gopjn.com
+127.0.0.1	goplay88.me
 127.0.0.1	goprediction.com
 127.0.0.1	goralogsizers.store
 127.0.0.1	goraps.com
@@ -24646,8 +24685,10 @@
 127.0.0.1	h3helgf2g7k8.com
 127.0.0.1	h3lw971ym6.com
 127.0.0.1	h5.appadhoc.com
+127.0.0.1	h5.diamondwallet.online
 127.0.0.1	h5.eagllwin.com
 127.0.0.1	h5.wannaplay.cn
+127.0.0.1	h51.carpcredits.com
 127.0.0.1	h559.stamfordadvocate.com
 127.0.0.1	h5log.zongheng.com
 127.0.0.1	h5tjj3loy2.com
@@ -25108,6 +25149,7 @@
 127.0.0.1	hhllryxtfgypz.com
 127.0.0.1	hhourtrk2.com
 127.0.0.1	hht8m6w8mnug.quine.sh
+127.0.0.1	hhwd68.com
 127.0.0.1	hhyalsk.com
 127.0.0.1	hhytrace.sogoucdn.com
 127.0.0.1	hi.districtm.ca
@@ -25373,6 +25415,7 @@
 127.0.0.1	hnxbskloifx.xyz
 127.0.0.1	hnytrd.ssfshop.com
 127.0.0.1	hoanaijo.com
+127.0.0.1	hoangkim1.org
 127.0.0.1	hoanoola.net
 127.0.0.1	hoarseairy.com
 127.0.0.1	hobbi.xyz
@@ -25535,6 +25578,7 @@
 127.0.0.1	hotnews1.me
 127.0.0.1	hotpot.360in.com
 127.0.0.1	hotrank.com.tw
+127.0.0.1	hotroviet999.com
 127.0.0.1	hotterenvisage.com
 127.0.0.1	hottraffic.nl
 127.0.0.1	hotwire-widget.dailywire.com
@@ -25570,6 +25614,7 @@
 127.0.0.1	howtubray.com
 127.0.0.1	hoydenlooms.website
 127.0.0.1	hp-api.omnitagjs.com
+127.0.0.1	hpggroup.net
 127.0.0.1	hplose.de
 127.0.0.1	hpmarzhnny.com
 127.0.0.1	hppvkbfcuq.com
@@ -26464,6 +26509,7 @@
 127.0.0.1	in.ml314.com
 127.0.0.1	in.promo.skf.com
 127.0.0.1	in.treasuredata.com
+127.0.0.1	in.unext.jp
 127.0.0.1	in1.clevertap-prod.com
 127.0.0.1	in1.gop1.co
 127.0.0.1	in1.wzrkt.com
@@ -30348,6 +30394,7 @@
 127.0.0.1	lona.nend.net
 127.0.0.1	lonb.nend.net
 127.0.0.1	loneptipy.pro
+127.0.0.1	long-thanh.com
 127.0.0.1	longaboo.com
 127.0.0.1	longertail.pl
 127.0.0.1	longestwaileddeadlock.com
@@ -30711,6 +30758,8 @@
 127.0.0.1	m-sc2.adsymptotic.com
 127.0.0.1	m-shes.ru
 127.0.0.1	m-t.io
+127.0.0.1	m.12luxury.com
+127.0.0.1	m.1svi101.com
 127.0.0.1	m.acmgloballab.com
 127.0.0.1	m.addthis.com
 127.0.0.1	m.addthisedge.com
@@ -30732,11 +30781,14 @@
 127.0.0.1	m.eskimi.com
 127.0.0.1	m.faktor.io
 127.0.0.1	m.hgbasics.com
+127.0.0.1	m.hi1222.com
 127.0.0.1	m.huerty.site
 127.0.0.1	m.infolinks.com
 127.0.0.1	m.irl.com
 127.0.0.1	m.lkqd.net
 127.0.0.1	m.loopme.me
+127.0.0.1	m.lxysp94.com
+127.0.0.1	m.maxdong101.com
 127.0.0.1	m.mstorer.net
 127.0.0.1	m.nxtck.com
 127.0.0.1	m.optvx.com
@@ -30751,6 +30803,7 @@
 127.0.0.1	m.vistaresourcegroup.com
 127.0.0.1	m.vpadn.com
 127.0.0.1	m.yap.yahoo.com
+127.0.0.1	m.yocvn.com
 127.0.0.1	m0hcppadsnq8.com
 127.0.0.1	m0mentum.net
 127.0.0.1	m1.stadiumgoods.com
@@ -31600,6 +31653,7 @@
 127.0.0.1	maxymiser.com
 127.0.0.1	maxymiser.net
 127.0.0.1	mayalaze.xyz
+127.0.0.1	mayanpuzzle.com
 127.0.0.1	mayhemabjure.com
 127.0.0.1	maylnk.com
 127.0.0.1	maymooth-stopic.com
@@ -32751,6 +32805,7 @@
 127.0.0.1	minexmr.stream
 127.0.0.1	mingledunorder.com
 127.0.0.1	mingledventin.com
+127.0.0.1	minhngocc789.com
 127.0.0.1	miniast.com
 127.0.0.1	minimizeglanceanyway.com
 127.0.0.1	minimumgold.com
@@ -32924,6 +32979,7 @@
 127.0.0.1	mmm.theweek.co.uk
 127.0.0.1	mmnetwork.mobi
 127.0.0.1	mmngqvbfuzenlk.com
+127.0.0.1	mmocorporation2017.com
 127.0.0.1	mmondi.com
 127.0.0.1	mmotraffic.com
 127.0.0.1	mmp001.scalemonk.com
@@ -33207,6 +33263,7 @@
 127.0.0.1	monetizemore.com
 127.0.0.1	monetizer101.com
 127.0.0.1	moneycosmos.com
+127.0.0.1	moneydong123.com
 127.0.0.1	moneyexpert.com
 127.0.0.1	moneygram24hh.weebly.com
 127.0.0.1	moneymakercdn.com
@@ -33494,6 +33551,10 @@
 127.0.0.1	msads.net
 127.0.0.1	msafoy.eyebuydirect.com
 127.0.0.1	msb.com.vn-sp.top
+127.0.0.1	msb.msbbsm.com
+127.0.0.1	msb.vn-iy.life
+127.0.0.1	msb.vn-jss.vip
+127.0.0.1	msbfhd.com
 127.0.0.1	msbuqruhcefx.xyz
 127.0.0.1	mscoldness.com
 127.0.0.1	msdhyexj.com
@@ -34239,6 +34300,7 @@
 127.0.0.1	nestedmedia.com
 127.0.0.1	nestledmph.com
 127.0.0.1	nestleexperiment.com
+127.0.0.1	nestlegroup.pro
 127.0.0.1	net-filter.com
 127.0.0.1	net-tracker.notolytix.com
 127.0.0.1	net.haier.com
@@ -34487,6 +34549,7 @@
 127.0.0.1	ng3.ads.warnerbros.com
 127.0.0.1	ngacm.com
 127.0.0.1	ngagement-engine.mobify.com
+127.0.0.1	nganhanganbinh.com
 127.0.0.1	nganhangbidv.com
 127.0.0.1	nganhangso24-7.com
 127.0.0.1	nganhangtructuyen24h.com
@@ -34501,6 +34564,7 @@
 127.0.0.1	ngghll.me.co.kr
 127.0.0.1	nghan.com
 127.0.0.1	nghcxtmsbqcmpv.com
+127.0.0.1	nghiencltx.com
 127.0.0.1	nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 127.0.0.1	ngjquyzjgcrupz.com
 127.0.0.1	ngleaccinemad.xyz
@@ -34516,6 +34580,7 @@
 127.0.0.1	nhantien120s-ollbankingz.weebly.com
 127.0.0.1	nhantienquocte249.weebly.com
 127.0.0.1	nhantienquocte275.weebly.com
+127.0.0.1	nhantienvipay.com
 127.0.0.1	nhanvimomo2021.weebly.com
 127.0.0.1	nhatnamgroups.com
 127.0.0.1	nhdddxvwpmriirk.com
@@ -35339,6 +35404,7 @@
 127.0.0.1	oddertabrhino.com
 127.0.0.1	oddscornflower.com
 127.0.0.1	oddsresemble.com
+127.0.0.1	oddsserve.com
 127.0.0.1	odfnxnzrmvxw.com
 127.0.0.1	odhrnejegx.com
 127.0.0.1	odhwfjrwlcq.xyz
@@ -35433,6 +35499,7 @@
 127.0.0.1	ofnumeltor.com
 127.0.0.1	ofphanpytor.com
 127.0.0.1	ofpiplupon.com
+127.0.0.1	ofqvwaosjq.com
 127.0.0.1	ofregahen.com
 127.0.0.1	ofseedotom.com
 127.0.0.1	ofslakotha.com
@@ -41757,6 +41824,7 @@
 127.0.0.1	rigill.com
 127.0.0.1	rigxpadydyveja.com
 127.0.0.1	rihaschgj.com
+127.0.0.1	rihcos.com
 127.0.0.1	rihosaphe.com
 127.0.0.1	rikobisti.com
 127.0.0.1	rilelogicbuy.com
@@ -42912,6 +42980,8 @@
 127.0.0.1	sacdon.com
 127.0.0.1	sacegryri.com
 127.0.0.1	sackswaycheese.com
+127.0.0.1	sacombank.vn-cl.xyz
+127.0.0.1	sacombank.vn-jss.vip
 127.0.0.1	sacombank.vn-ne.top
 127.0.0.1	sacombank.vn-sp.top
 127.0.0.1	sacombank.vn-vp.xyz
@@ -43235,6 +43305,7 @@
 127.0.0.1	sandbox.stickyadstv.com
 127.0.0.1	sandelf.com
 127.0.0.1	sandsitedrhec.club
+127.0.0.1	sanduon.com
 127.0.0.1	sanggilregard.com
 127.0.0.1	sangogne.com
 127.0.0.1	sanity-dataplane.rudderstack.com
@@ -43464,8 +43535,12 @@
 127.0.0.1	scaupyfeuwmaxxt.com
 127.0.0.1	scb.com.vn-cn.xyz
 127.0.0.1	scb.com.vn-cr.life
+127.0.0.1	scb.com.vn-iz.info
+127.0.0.1	scb.com.vn-rb.icu
+127.0.0.1	scb.com.vn-rn.biz
 127.0.0.1	scb.com.vn-scl.life
 127.0.0.1	scb.com.vn-ub.info
+127.0.0.1	scb.com.vn-uz.info
 127.0.0.1	scb.vn-kn.vip
 127.0.0.1	scb.vn-vp.xyz
 127.0.0.1	scdn.cxense.com
@@ -44482,6 +44557,7 @@
 127.0.0.1	service.maxymiser.net
 127.0.0.1	service.nr-data.net
 127.0.0.1	service.pca.admarketplace.net
+127.0.0.1	service.tpbxnk.com
 127.0.0.1	service.trustpid.com
 127.0.0.1	service.winadx.com
 127.0.0.1	servicedesk.appboy.com
@@ -44729,6 +44805,8 @@
 127.0.0.1	shawashygy.com
 127.0.0.1	shawlyni.name
 127.0.0.1	shawuh2a8nyam09.com
+127.0.0.1	shb.com.vn-iy.info
+127.0.0.1	shb.com.vn-sp.xyz
 127.0.0.1	shbfina.com
 127.0.0.1	shbfinan.com
 127.0.0.1	shbfinanoe.com
@@ -44766,6 +44844,7 @@
 127.0.0.1	shijauns.com
 127.0.0.1	shikarshexace.com
 127.0.0.1	shikroux.net
+127.0.0.1	shilla.skrfgrl.cn
 127.0.0.1	shillivee.pro
 127.0.0.1	shiltirs.com
 127.0.0.1	shinasi.info
@@ -44776,6 +44855,7 @@
 127.0.0.1	shinestuart.com
 127.0.0.1	shinglelatitude.com
 127.0.0.1	shinhanbank79.com
+127.0.0.1	shinhanfnc.com
 127.0.0.1	shinkme.com
 127.0.0.1	shinyshock.pro
 127.0.0.1	shinyspiesyou.com
@@ -44917,6 +44997,7 @@
 127.0.0.1	shrillbeatintimidating.com
 127.0.0.1	shrillbighearted.com
 127.0.0.1	shrillspoon.com
+127.0.0.1	shrimpskins.org
 127.0.0.1	shrimpsqueezed.com
 127.0.0.1	shrinesawning.guru
 127.0.0.1	shrinkearn.com
@@ -44981,6 +45062,7 @@
 127.0.0.1	sielsmaats.com
 127.0.0.1	sienns.com
 127.0.0.1	sieumomo.com
+127.0.0.1	sieunhitainangmua3-2022.weebly.com
 127.0.0.1	siewmi.uncommongoods.com
 127.0.0.1	sifenews.com
 127.0.0.1	sifiwoery.xyz
@@ -45235,6 +45317,7 @@
 127.0.0.1	skadsdk.appsflyer.com
 127.0.0.1	skatestooped.com
 127.0.0.1	skbnfa.filorga.com
+127.0.0.1	skcapepyshdr.xyz
 127.0.0.1	skelity.com
 127.0.0.1	skellbillard.com
 127.0.0.1	skenqaamefeoncfegrytbuvksebpefer.com
@@ -49140,6 +49223,7 @@
 127.0.0.1	store.yahoo.net
 127.0.0.1	storeacdn.com
 127.0.0.1	storeconfig.mistat.intl.xiaomi.com
+127.0.0.1	storehaiyen.com
 127.0.0.1	stores-counters.wix.com
 127.0.0.1	storescissors.com
 127.0.0.1	storeslope.com
@@ -49464,6 +49548,7 @@
 127.0.0.1	sunlightmetrics.b-cdn.net
 127.0.0.1	sunmedia.net
 127.0.0.1	sunmedia.tv
+127.0.0.1	sunmomo.me
 127.0.0.1	sunnybluecoral.com
 127.0.0.1	sunnycategoryopening.com
 127.0.0.1	sunnyseries.com
@@ -49558,6 +49643,7 @@
 127.0.0.1	supportivedistrustuldistrustulmaturity.com
 127.0.0.1	supportiveworking.pro
 127.0.0.1	supportmetrics.apple.com
+127.0.0.1	supporttoancau.com
 127.0.0.1	supportxmr.com
 127.0.0.1	supposefright.com
 127.0.0.1	supposeperfumebread.com
@@ -50776,8 +50862,12 @@
 127.0.0.1	techblog.gumgum.com
 127.0.0.1	techclicks.net
 127.0.0.1	techcombank.ngan-hang.net
+127.0.0.1	techcombank.vn-cl.xyz
+127.0.0.1	techcombank.vn-iy.life
+127.0.0.1	techcombank.vn-jss.vip
 127.0.0.1	techcombank.vn-ol.top
 127.0.0.1	techcombank.vn-sp.top
+127.0.0.1	techcombank.vn-sp.xyz
 127.0.0.1	techcombank.vn-vp.xyz
 127.0.0.1	techlab-cdn.com
 127.0.0.1	technical-service.net
@@ -51131,6 +51221,7 @@
 127.0.0.1	thefreshposts.com
 127.0.0.1	thefuncoolstuff.com
 127.0.0.1	thegioididong.me
+127.0.0.1	thegioididong.store
 127.0.0.1	thehotposts.com
 127.0.0.1	theirsvendor.com
 127.0.0.1	thekromp.com
@@ -51300,6 +51391,7 @@
 127.0.0.1	thrube.com
 127.0.0.1	thruport.com
 127.0.0.1	thrustlumpypulse.com
+127.0.0.1	thsdbj.com
 127.0.0.1	thseaeing.fun
 127.0.0.1	thterras.com
 127.0.0.1	thtugernvd.com
@@ -52031,10 +52123,12 @@
 127.0.0.1	tp2.beap.gemini.yahoo.com
 127.0.0.1	tp88trk.com
 127.0.0.1	tpa7.iahorro.com
+127.0.0.1	tpbank.vn-cl.xyz
 127.0.0.1	tpbank.vn-vpb.top
 127.0.0.1	tpbank84.com
 127.0.0.1	tpbankvnvn.com
 127.0.0.1	tpbid.com
+127.0.0.1	tpbxnk.com
 127.0.0.1	tpc.googlesyndication.com
 127.0.0.1	tpcnc.googlesyndication.com
 127.0.0.1	tpcserve.com
@@ -53933,6 +54027,9 @@
 127.0.0.1	truffle.bid
 127.0.0.1	trugaze.io
 127.0.0.1	trumbemmomo.club
+127.0.0.1	trumcltx.vip
+127.0.0.1	trummomo.com
+127.0.0.1	trummomo.me
 127.0.0.1	trumphjardon.com
 127.0.0.1	trumpia.com
 127.0.0.1	trungtamdienmayxanh.net
@@ -54254,6 +54351,7 @@
 127.0.0.1	twwfxwgvlnc.com
 127.0.0.1	twwkrcec.com
 127.0.0.1	twyn.com
+127.0.0.1	tx55.vip
 127.0.0.1	txcmjo.com
 127.0.0.1	txcsudkymdq.com
 127.0.0.1	txfryh.terra.com.br
@@ -54627,6 +54725,7 @@
 127.0.0.1	umami.wakarimasen.moe
 127.0.0.1	umbel.com
 127.0.0.1	umbrellaomendear.com
+127.0.0.1	umdvyiea.com
 127.0.0.1	umekana.ru
 127.0.0.1	umeng.co
 127.0.0.1	umeng.com
@@ -55379,6 +55478,7 @@
 127.0.0.1	v1.development.privatebackendsntor-data.docker.2lab.net.zooplus.de
 127.0.0.1	v1.mail.net.zooplus.it
 127.0.0.1	v1.nend.net
+127.0.0.1	v1.oddsserve.com
 127.0.0.1	v11media.com
 127.0.0.1	v12group.com
 127.0.0.1	v16-ad.byteoversea.com
@@ -55559,6 +55659,7 @@
 127.0.0.1	vatcalf.com
 127.0.0.1	vatedquali.com
 127.0.0.1	vatfulsicing.com
+127.0.0.1	vatgia306.com
 127.0.0.1	vatlodesim.com
 127.0.0.1	vatname.info
 127.0.0.1	vatodspocw.xyz
@@ -55574,10 +55675,14 @@
 127.0.0.1	vawulu.xyz
 127.0.0.1	vax-boost.com
 127.0.0.1	vax-now.com
+127.0.0.1	vaydaiphat.com
+127.0.0.1	vaykimtruongphat.org
 127.0.0.1	vaynganhangvcb.online
 127.0.0.1	vaynhanh24h.tk
+127.0.0.1	vaynhanhnamthanh.org
 127.0.0.1	vaythechap-bidv.com
 127.0.0.1	vaytieudungtpbank.weebly.com
+127.0.0.1	vayvonnhanhnganhangtpbank.com
 127.0.0.1	vazlshyjp.com
 127.0.0.1	vazypteke.pro
 127.0.0.1	vbanalytics.com
@@ -55598,6 +55703,8 @@
 127.0.0.1	vcbbankdigi.com
 127.0.0.1	vcbdigeibonk.com
 127.0.0.1	vcbdigliebrnk.com
+127.0.0.1	vcbdigtylbrnk.com
+127.0.0.1	vcbdlgrcbonk.com
 127.0.0.1	vcbigdank.com
 127.0.0.1	vcdc.com
 127.0.0.1	vcdhtxhfbhx.com
@@ -55629,6 +55736,8 @@
 127.0.0.1	ve01.mgod33cme.com
 127.0.0.1	vebadu.com
 127.0.0.1	vebo-vast.pages.dev
+127.0.0.1	vebo123.vip
+127.0.0.1	vebo8386.me
 127.0.0.1	vectaury.io
 127.0.0.1	vectorstock.com
 127.0.0.1	vecturequotes.com
@@ -55814,6 +55923,7 @@
 127.0.0.1	viatepigan.com
 127.0.0.1	viatorayme.com
 127.0.0.1	viavideo.digital
+127.0.0.1	vib-vay.com
 127.0.0.1	vib84.com
 127.0.0.1	vibjbavphaprfaj.com
 127.0.0.1	vibrant.co
@@ -55959,6 +56069,10 @@
 127.0.0.1	vidverto.io
 127.0.0.1	viency-vering.com
 127.0.0.1	vietcombank.vn-cn.xyz
+127.0.0.1	vietcombank.vn-jss.vip
+127.0.0.1	vietcombank.vn-llc.top
+127.0.0.1	vietcombank.vn-nng.top
+127.0.0.1	vietcombank.vn-sp.xyz
 127.0.0.1	vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 127.0.0.1	vietimbank.top
 127.0.0.1	vietnamairslines.vn
@@ -56180,6 +56294,7 @@
 127.0.0.1	vknalqcnfxu.com
 127.0.0.1	vkngyilcblid.com
 127.0.0.1	vknrfwwxhxaxupqp.pro
+127.0.0.1	vlcdownloads.com
 127.0.0.1	vlclptmgxmijbyf.com
 127.0.0.1	vlernujzri.com
 127.0.0.1	vliplatform.com
@@ -56206,22 +56321,35 @@
 127.0.0.1	vmwuxqelwjaab.com
 127.0.0.1	vmxpkisuai.com
 127.0.0.1	vmzqwmbrip.com
+127.0.0.1	vn-cl.xyz
+127.0.0.1	vn-cn.life
 127.0.0.1	vn-cn.xyz
 127.0.0.1	vn-cr.life
 127.0.0.1	vn-dienmayxanh.com
 127.0.0.1	vn-findmy.com
 127.0.0.1	vn-gmtdmp.mookie1.com
 127.0.0.1	vn-hc.info
+127.0.0.1	vn-iy.info
+127.0.0.1	vn-iy.life
+127.0.0.1	vn-iz.info
+127.0.0.1	vn-jss.vip
 127.0.0.1	vn-kn.vip
+127.0.0.1	vn-llc.top
+127.0.0.1	vn-nng.top
+127.0.0.1	vn-rb.icu
+127.0.0.1	vn-rn.biz
 127.0.0.1	vn-scl.life
 127.0.0.1	vn-sp.top
+127.0.0.1	vn-sp.xyz
 127.0.0.1	vn-ub.info
+127.0.0.1	vn-uz.info
 127.0.0.1	vn-vp.xyz
 127.0.0.1	vn.ad.lgsmartad.com
 127.0.0.1	vn.adserver.yahoo.com
 127.0.0.1	vn.adsloads.com
 127.0.0.1	vn.info.lgsmartad.com
 127.0.0.1	vn.innity.com
+127.0.0.1	vn765.com
 127.0.0.1	vnacdnryl.com
 127.0.0.1	vnah567.com
 127.0.0.1	vnaujncaeoygdw.com
@@ -56367,8 +56495,15 @@
 127.0.0.1	vpaidevents.1rx.io
 127.0.0.1	vpb0.moatads.com
 127.0.0.1	vpbank.com.vn-hc.info
+127.0.0.1	vpbank.com.vn-rb.icu
+127.0.0.1	vpbank.com.vn-rn.biz
+127.0.0.1	vpbank.com.vn-uz.info
+127.0.0.1	vpbank.vn-cl.xyz
+127.0.0.1	vpbank.vn-cn.life
 127.0.0.1	vpbank.vn-cr.life
+127.0.0.1	vpbank.vn-sp.xyz
 127.0.0.1	vpbceulnfbx.com
+127.0.0.1	vpbsvn.com
 127.0.0.1	vpdcp.com
 127.0.0.1	vpebzerg.com
 127.0.0.1	vpf4.euskaltelofertas.com
@@ -56403,6 +56538,7 @@
 127.0.0.1	vpotyflfox.com
 127.0.0.1	vppst.iltrovatore.it
 127.0.0.1	vprza.com
+127.0.0.1	vps8449vn.com
 127.0.0.1	vptadv.com
 127.0.0.1	vptbn.com
 127.0.0.1	vpvbojamkoxo.com
@@ -57031,6 +57167,7 @@
 127.0.0.1	webglstats.com
 127.0.0.1	webgozar.com
 127.0.0.1	webgozar.ir
+127.0.0.1	webh5.newfastloan.cc
 127.0.0.1	webhit-now.com
 127.0.0.1	webhit.snd.no
 127.0.0.1	webhits.de
@@ -57249,6 +57386,7 @@
 127.0.0.1	west.bidtellect.com
 127.0.0.1	west.us.tm.exelator.com
 127.0.0.1	westerdayeol.site
+127.0.0.1	western-unions24h.weebly.com
 127.0.0.1	westernunions6886z.weebly.com
 127.0.0.1	wetbackbabai.com
 127.0.0.1	wetfailjwt.com
@@ -58440,6 +58578,7 @@
 127.0.0.1	www.dfnb-ads.com
 127.0.0.1	www.dhenr54m.com
 127.0.0.1	www.dial4gwyn.com
+127.0.0.1	www.dichvuchuyentien-ind.weebly.com
 127.0.0.1	www.direct-aws-a1.com
 127.0.0.1	www.direct-azr-78.com
 127.0.0.1	www.discover-path.com
@@ -59574,6 +59713,7 @@
 127.0.0.1	xswvytnxkzkzq.com
 127.0.0.1	xswxfuvrsew.com
 127.0.0.1	xtag.autotrader.com
+127.0.0.1	xtb111.com
 127.0.0.1	xteedehi.com
 127.0.0.1	xtendadvert.com
 127.0.0.1	xtendmedia.com
