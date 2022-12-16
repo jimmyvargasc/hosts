@@ -1,8 +1,8 @@
-# Title: Block List Pro
+# Title: Blocklist Pro
 # Size: 2,08 MiB
-# Count: 74.968 Rules
+# Count: 74.969 Rules
 # Expires: 24 Hours (Update Frequency)
-# Updated: Fri 16 Dec 2022 07:42:37 -05:00
+# Updated: Fri 16 Dec 2022 11:34:03 -05:00
 # URL: https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts
 # ----------------------------------------------------------------------
 127.0.0.1	0-000.store
@@ -18296,6 +18296,7 @@
 127.0.0.1	cl.canva.com
 127.0.0.1	cl.promo.skf.com
 127.0.0.1	cl.qualaroo.com
+127.0.0.1	cl.t3n.de
 127.0.0.1	cl0udh0st1ng.com
 127.0.0.1	cl247.me
 127.0.0.1	clackavarian.com
@@ -29752,7 +29753,6 @@
 127.0.0.1	garnetsnails.com
 127.0.0.1	garotas.info
 127.0.0.1	garss.tv
-127.0.0.1	gartenplanze.de
 127.0.0.1	garysero.xyz
 127.0.0.1	gas-sensing.spec-sensors.com
 127.0.0.1	gasasthe.freehostia.com
@@ -62639,6 +62639,7 @@
 127.0.0.1	testedtouch.com
 127.0.0.1	testensie.de
 127.0.0.1	testfilter.com
+127.0.0.1	testfrequenz.de
 127.0.0.1	testifydiscrepancy.com
 127.0.0.1	testimonypersuadedclinic.com
 127.0.0.1	testin.cn
