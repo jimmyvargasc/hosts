@@ -1,4 +1,4 @@
-# Block List Pro
+# Blocklist Pro
 <div align="justify">
   <p><i><b>Personal Protection:</b>
 It is a hosts file for Android.
