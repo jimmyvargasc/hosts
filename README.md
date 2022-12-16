@@ -1,6 +1,6 @@
 # Blocklist Pro
 <div align="justify">
-  <p><i><b>Personal Protection:</b>
+  <p><i><b>Blocklist Pro:</b>
 It is a hosts file for Android.
 Several widely respected unified hosts.
    The files are used to block ads, malware,
