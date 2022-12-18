@@ -1,8 +1,8 @@
 # Title: Blocklist Pro
 # Size: 2,13 MiB
-# Count: 76.240 Rules
+# Count: 76.246 Rules
 # Expires: 24 Hours (Update Frequency)
-# Updated: Sun 18 Dec 2022 08:40:18 -05:00
+# Updated: Sun 18 Dec 2022 11:06:46 -05:00
 # URL: https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts
 # ----------------------------------------------------------------------
 127.0.0.1	0-000.store
@@ -62276,6 +62276,12 @@
 127.0.0.1	suggest.hotjar.com
 127.0.0.1	suggestedhappyspun.com
 127.0.0.1	suggestionwallpaperhump.com
+127.0.0.1	suggestqueries-clients1.youtube.com
+127.0.0.1	suggestqueries-clients2.youtube.com
+127.0.0.1	suggestqueries-clients3.youtube.com
+127.0.0.1	suggestqueries-clients4.youtube.com
+127.0.0.1	suggestqueries-clients5.youtube.com
+127.0.0.1	suggestqueries-clients6.youtube.com
 127.0.0.1	suggestqueries.googleapis.com
 127.0.0.1	sugodeku.com
 127.0.0.1	sugoicounter.com
