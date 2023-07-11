@@ -27,7 +27,7 @@ were used.  In many operating systems this method
 is used in preference to others such as DNS.
 It is currently also used to block Internet content
 such as web advertising.
-   https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts</i></p>
+<p>https://raw.githubusercontent.com/jimmyvargasc/hosts/master/hosts</p></i></p>
   <p><i><b>Attention:</b> this file are not for commercial
 use, this file are for personal use only.
     </i></p>
