@@ -1,4 +1,5 @@
 # Blocklist Pro
+<DOCTYPE html5>
 <div align="justify">
   <p><i><b>Blocklist Pro:</b>
 It is a hosts file for Android.
