@@ -21,6 +21,9 @@ ff02::3 ip6-allhosts
 # ==========================================
 #       B L O C K L I S T  B E G I N S
 # ==========================================
+0.0.0.0 partner.ads.js
+0.0.0.0 pagead.js
+0.0.0.0 ads.js
 0.0.0.0 smetrics.foniksprivatlan.no
 0.0.0.0 ultracdn.top
 0.0.0.0 c.bebi.com
