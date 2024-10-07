@@ -7,13 +7,18 @@ Several widely respected unified hosts.
    The files are used to block ads, malware,
    trackers and other annoying things. Can be used with:
    <a href="https://adaway.org/">AdAway</a>,
-   <a href="https://blokada.org/?lang=es">Blokada</a>,
-   <a href="https://github.com/julian-klode/dns66">DNS66</a>,
+   <a
+href="https://blokada.org/?lang=es">Blokada</a>,
+   <a
+href="https://github.com/julian-klode/dns66">DNS66</a>,
    <a href="https://github.com/Ch4t4r/Nebulo">Nebulo</a>,
    <a href="https://netguard.me/">NetGuard</a>,
    <a href="https://github.com/celzero/rethink-app">RethinkDNS + Firewall</a>,
    <a href="https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts">Virtual Hosts</a>,
-   <a href="https://pi-hole.net/">Pi-hole</a>.</i></p>
+    <a
+href="https://www.zenz-solutions.de/personaldnsfilter-wp/">personalDNSfilter</a>,
+   <a
+href="https://pi-hole.net/">Pi-hole</a>.</i></p>
    <p><i><b>The hosts file:</b>
 A device's hosts file is used by the operating
 system to store the correspondence between Internet
