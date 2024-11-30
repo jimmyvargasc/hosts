@@ -13,6 +13,8 @@ http://45.5.117.23:8000/play/a0pc/index.m3u8
 http://45.5.117.23:8000/play/a0m5/index.m3u8
 #EXTINF:0,AXN HD
 http://45.5.117.23:8000/play/a0od/index.m3u8
+#EXTINF:0,AZTECA UNO
+http://45.5.117.23:8000/play/a0om/index.m3u8
 #EXTINF:0,Animal Planet
 http://45.5.117.23:8000/play/a0n4/index.m3u8
 #EXTINF:0,Antena 7- RD
@@ -451,7 +453,6 @@ http://190.83.2.172:8081/play/a06p/index.m3u8
 http://190.83.2.172:8080/play/a011/index.m3u8
 #EXTINF:11,Nickelodeon
 http://190.83.2.172:8081/play/a05g/index.m3u8
-http://190.83.2.172:8081/play/a067/index.m3u8
 #EXTINF:11,Nick Jr
 http://190.83.2.172:8080/play/a022/index.m3u8
 #EXTINF:11,Paramount HD
@@ -494,6 +495,8 @@ http://190.83.2.172:8080/play/a02o/index.m3u8
 http://190.83.2.172:8081/play/a04d/index.m3u8
 #EXTINF:11,Telecafe
 http://190.83.2.172:8080/play/a06w/index.m3u8
+#EXTINF:11,Telemundo
+#EXTINF:11,CDN37 - TeleMicro - RD
 #EXTINF:11,Telesistema RD
 http://190.83.2.172:8080/play/a01w/index.m3u8
 #EXTINF:11,Teen Nick HD
@@ -502,6 +505,7 @@ http://190.83.2.172:8080/play/a02v/index.m3u8
 http://190.83.2.172:8081/play/a05f/index.m3u8
 #EXTINF:11,TLC
 http://190.83.2.172:8081/play/a055/index.m3u8
+#EXTINF:11,TNT Novelas
 #EXTINF:11,RCN - TNT HD
 http://190.83.2.172:8081/play/a05h/index.m3u8
 #EXTINF:11,Tooncast
@@ -562,6 +566,7 @@ http://181.78.82.6:46090/play/a05d/index.m3u8
 http://181.78.82.6:46090/play/a044/index.m3u8
 #EXTINF:-1,CARACOL TV HD
 http://181.78.82.6:46090/play/a05x/index.m3u8
+http://181.78.82.6:46090/play/a02c/index.m3u8
 #EXTINF:-1,CARACOL HD 2
 http://181.78.82.6:46090/play/a05y/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -656,7 +661,6 @@ http://181.78.82.6:46090/play/a02n/index.m3u8
 http://181.78.82.6:46090/play/a025/index.m3u8
 #EXTINF:-1,GOLDEN HD
 http://181.78.82.6:46090/play/a01w/index.m3u8
-#EXTINF:-1,GOLDEN PLUS
 #EXTINF:-1,GOLTV HD
 http://181.78.82.6:46090/play/a01z/index.m3u8
 #EXTINF:-1,HBO 2 HD
